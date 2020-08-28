@@ -4,4 +4,5 @@ description: Hi! I go by euro, or eurotransient in game and on Twitter. This ref
 //IKELOS_SMG_v1.0.2
 //note:This is just a test note for my one chosen Ikelos SMG roll.
 https://destinytracker.com/destiny-2/db/items/2222560548?perks=1525239159,3250034553,106909392,4071163871,3523296417,3205869485,1513326571,2697220197,0,905869860
+
 //
