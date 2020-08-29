@@ -3,8 +3,6 @@ description: Hi! I go by euro, or eurotransient in game and on Twitter. This ref
 
 //IKELOS_SMG_v1.0.2
 //notes:This is just a test note for my one chosen Ikelos SMG roll.
-dimwishlist:item=2222560548&perks=3523296417
-dimwishlist:item=2222560548&perks=4071163871
 dimwishlist:item=2222560548&perks=106909392,4071163871,3523296417
 dimwishlist:item=2222560548&perks=106909392,1359896290,3523296417
 dimwishlist:item=2222560548&perks=106909392,1631667848,3523296417
