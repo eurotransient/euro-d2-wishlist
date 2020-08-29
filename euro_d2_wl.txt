@@ -1,8 +1,8 @@
 title:euro's Destiny 2 Wishlist
-description: Hi! I go by euro, or eurotransient in game and on Twitter. This reflects my own personal preferences in Destiny 2 and is going to be a long time work in progress. If you happen across this list you are of course welcome to use it, but please note that nothing here is a recommendation beyond the fact that it is either a perk set I personally enjoy or one that would like to find.
+description: Work in progress!
 
 //IKELOS_SMG_v1.0.2
-//notes:This is just a test note for my one chosen Ikelos SMG roll. Test.
+//notes:This is a note! I like this gun!
 dimwishlist:item=2222560548&perks=106909392,4071163871,3523296417
 dimwishlist:item=2222560548&perks=106909392,1359896290,3523296417
 dimwishlist:item=2222560548&perks=106909392,1631667848,3523296417
