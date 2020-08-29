@@ -5,4 +5,5 @@ description: Hi! I go by euro, or eurotransient in game and on Twitter. This ref
 //notes:This is just a test note for my one chosen Ikelos SMG roll.
 dimwishlist:item=2222560548&perks=3523296417 //Demolitionist
 dimwishlist:item=2222560548&perks=4071163871 //Threat Detector
+
 //
