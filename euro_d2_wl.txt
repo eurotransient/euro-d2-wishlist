@@ -1,8 +1,6 @@
 title:euro's Destiny 2 Wishlist
 description: Work in progress!
 
-//Season of Arrivals
-
 //Fusion Rifles
 
 // Hollow Words
