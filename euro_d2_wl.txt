@@ -1,5 +1,5 @@
 title:euro's Destiny 2 Wishlist
-description: Work in progress!
+description: Just a personal refinement of my ideal rolls. I lean more into the PvE sandbox, and you'll find that my perk choices often reflect that preference. If you're looking for PvP god rolls, I may be missing a number of those. That said, as I build this project out, I'll make more effort to also touch on PvP. I also tend to feel pretty broadly about first and second column perks, so you may not find extreme refinement in those columns, though they do not go unaddressed. Masterworks are not included as part of my wishlist, as I find those to largely be added bonuses that reflect personal preference more than essentials. Full project here: https://github.com/eurotransient/euro-d2-wishlist
 
 // Exotics with random rolls
 
