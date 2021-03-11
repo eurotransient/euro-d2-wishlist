@@ -1,11 +1,12 @@
 # euro-d2-wishlist
 
-Just a personal wishlist for Destiny 2. Primarily using Expert Mode instructions located [here](https://github.com/DestinyItemManager/DIM/blob/master/docs/COMMUNITY_CURATIONS.md).
+Just a personal refinement of my ideal rolls. I lean more into the PvE sandbox, and you'll find that my perk choices often reflect that preference. If you're looking for PvP god rolls, I may be missing a number of those. That said, as I build this project out, I'll make more effort to also touch on PvP. I also tend to feel pretty broadly about first and second column perks, so you may not find extreme refinement in those columns, though they do not go unaddressed. Masterworks are not included as part of my wishlist, as I find those to largely be added bonuses that reflect personal preference more than essentials.
 
-End goal is to more accurately curate DIM to my own tastes, and will likely be an ongoing work in progress.
+To use this wishlist in DIM, visit your [settings page](https://app.destinyitemmanager.com/settings) and navigate to the Wish List section. You'll see an option to supply the URL for a wish list. You can add multiple wishlists (including keeping the default voltron list) by pipe separating the URLs there. The direct URL to my wishlist is https://raw.githubusercontent.com/eurotransient/euro-d2-wishlist/master/euro_d2_wl.txt
 
-Here's some useful links for my own future reference:
+Essential tool to building out the perk combos to add here is this [Cheat Sheet](https://48klocs.github.io/wish-list-magic-wand/fingerwave.html): This will generate the DIM tags based on plain text perk names.
 
-* [Destiny Sets Data Explorer](https://data.destinysets.com/): Required data is the hash value, which is printed next to the name of the item you're viewing. **Important note**: There's a number of types of items available, but sure to choose the InventoryItem data set to get the correct hash.
-* [Cheat Sheet](https://48klocs.github.io/wish-list-magic-wand/fingerwave.html): This will generate the DIM tags based on entries from the data explorer.
-* I quite like [this spreadsheet here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnSQjqBqEqBQY3R203V5Y5b0il4gSeOIiPlsJfEErGfztmx9BHxzBA9wPlFo8oFMHNOddqrjpmx-hZ/pubhtml) as a fairly broad list of desirable perks. Been using this as a source in addition to light.gg.
+## To Dos
+* Add entries for all weapons.
+* Further refine those entries, particularly ones added early in this process.
+* Set up a table of contents of some sort, to keep better track of what's been added and what hasn't.
