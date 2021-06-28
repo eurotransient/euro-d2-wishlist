@@ -226,3 +226,21 @@ dimwishlist:item=2171478765&perks=839105230,1087426260,1774574192,11612903
 //
 
 // Found Verdict (Timelost) https://www.light.gg/db/items/631439337
+
+//
+
+// Corrective Measure https://www.light.gg/db/items/471518543
+
+//
+
+// Corrective Measure https://www.light.gg/db/items/3796510434
+
+//
+
+// Hezen Vengeance https://www.light.gg/db/items/4050645223
+
+//
+
+// Hezen Vengeance https://www.light.gg/db/items/1921159786
+
+//
