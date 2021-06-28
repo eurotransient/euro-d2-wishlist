@@ -144,3 +144,22 @@ dimwishlist:item=3593598010&perks=13792279,2420895100,2779035018,3425386926
 dimwishlist:item=3593598010&perks=2405638015,2420895100,2779035018,3425386926
 
 //
+
+// Riiswalker https://www.light.gg/db/items/108221785
+
+
+
+//
+
+// Finite Impactor https://www.light.gg/db/items/3813153080
+
+
+
+//
+
+// Occluded Finality https://www.light.gg/db/items/852551895
+
+
+
+//
+
