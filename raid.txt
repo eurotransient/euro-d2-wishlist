@@ -223,6 +223,10 @@ dimwishlist:item=2171478765&perks=839105230,1087426260,1774574192,11612903
 
 // Found Verdict https://www.light.gg/db/items/3197270240
 
+dimwishlist:item=3197270240&perks=3436462433
+dimwishlist:item=3197270240&perks=47981717
+dimwishlist:item=3197270240&perks=3436462433,47981717
+
 //
 
 // Found Verdict (Timelost) https://www.light.gg/db/items/631439337
