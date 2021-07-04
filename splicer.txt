@@ -1,9 +1,109 @@
-title: Season of the Splicer Wishlist
-description: tbd
+title:Season of the Splicer Wishlist
+description: Ideal rolls from Season of Splicer weapons. Created by eurotransient.
 
-// Hung Jury (Adept)
+// Kinetic
 
+// Chroma Rush https://www.light.gg/db/items/1119734784
+
+
+
+// Ignition Code https://www.light.gg/db/items/304659313
+
+
+
+// Survivor's Epitaph https://www.light.gg/db/items/310708513
+
+
+
+// Hung Jury SR4 https://www.light.gg/db/items/4281371574
+
+
+
+// Hung Jury SR4 (Adept) https://www.light.gg/db/items/681067419
 dimwishlist:item=681067419&perks=106909392,247725512,3038247973
 dimwishlist:item=681067419&perks=1087426260,247725512,3038247973
 dimwishlist:item=681067419&perks=3230963543,247725512,3038247973
 dimwishlist:item=681067419&perks=3142289711,247725512,3038247973
+
+
+// Farewell https://www.light.gg/db/items/541188001
+
+
+
+// Energy
+
+// The Number https://www.light.gg/db/items/2492081469
+
+
+
+// Null Composure https://www.light.gg/db/items/1644680957
+
+
+
+// PLUG ONE.1 https://www.light.gg/db/items/1289000550
+
+
+
+// PLUG.ONE.1 (Adept) https://www.light.gg/db/items/534775659
+
+
+
+// Empty Vessel https://www.light.gg/db/items/4255586669
+
+
+
+// Gridskipper https://www.light.gg/db/items/1621558458
+
+
+
+// Pleiades Corrector https://www.light.gg/db/items/3556999246
+
+
+
+// Sojourner's Tale https://www.light.gg/db/items/599895591
+
+
+
+// The Deicide https://www.light.gg/db/items/217140611
+
+
+
+// The Vision https://www.light.gg/db/items/2414141462
+
+
+// Uzume RR4 https://www.light.gg/db/items/2065081837
+
+
+
+// Uzume RR4 (Adept) https://www.light.gg/db/items/852228780
+
+
+
+// Borrowed Time https://www.light.gg/db/items/875848769
+
+
+
+// Stochastic Variable https://www.light.gg/db/items/2272470786
+
+
+
+// Heavy
+
+// Crown-Splitter https://www.light.gg/db/items/2782325302
+
+
+
+// Quickfang https://www.light.gg/db/items/2782325300
+
+
+
+// Eternity's Edge https://www.light.gg/db/items/2782325301
+
+
+
+// Memory Interdict https://www.light.gg/db/items/3165547384
+
+
+
+// Shattered Cipher https://www.light.gg/db/items/2434225986
+
