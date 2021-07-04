@@ -1,0 +1,9 @@
+title: Season of the Splicer Wishlist
+description: tbd
+
+// Hung Jury (Adept)
+
+dimwishlist:item=681067419&perks=106909392,247725512,3038247973
+dimwishlist:item=681067419&perks=1087426260,247725512,3038247973
+dimwishlist:item=681067419&perks=3230963543,247725512,3038247973
+dimwishlist:item=681067419&perks=3142289711,247725512,3038247973
