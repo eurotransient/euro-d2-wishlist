@@ -1,2 +1,5 @@
 title: euro#3423 wishlist
 description: a work in progress
+
+// Crafted Rolls
+dimwishlist:item=2990047042&perks=1482024992,106909392,461595545,3418165135 // Succession
